@@ -11,5 +11,5 @@ console.log(typeof (NaN)); // NaN is the type of number.
 
 // 2. Infinity
 console.log(Infinity / 0); // Infinity
-console.log(Infinity / Infinity);
-console.log(1 / 0);
+console.log(Infinity / Infinity); // NaN
+console.log(1 / 0); // Infinity
