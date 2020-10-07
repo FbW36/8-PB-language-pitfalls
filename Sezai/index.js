@@ -17,3 +17,9 @@ console.log("checkValue1 ==>", checkValue1); // NaN is FALSE
 // What is the type of NaN?
 // isNaN('hello'); TRUE with strings because its Not-a-Number
 // isNaN(3); FALSE with Numbers because it is a Number
+
+
+// 2.
+console.log("infinity divided 0 ==>", Infinity / 0);
+console.log("infinity divided infinity ==>", Infinity / Infinity);
+console.log(" 1 divided 0 ==>", 1 / 0);
