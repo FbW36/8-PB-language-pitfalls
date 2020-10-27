@@ -16,7 +16,7 @@ let checkValue2 = isNaN(number);
 console.log(checkValue2); // false -- '3' is a number
 
 // * What is the type of NaN?
-// 
+// Number
 
 // #### 2. Infinity
 //     * Divide Infinity by`0`.
