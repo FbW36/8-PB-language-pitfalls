@@ -20,5 +20,10 @@ console.log(checkValue2); // false -- '3' is a number
 
 // #### 2. Infinity
 //     * Divide Infinity by`0`.
+console.log(Infinity / 0); // Infinity
+
 // * Divide Infinity by Infinity.
+console.log(Infinity / Infinity); // NaN
+
 // * Divide`1` by`0`.
+console.log(1 / 0); // Infinity
